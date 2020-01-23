@@ -1,10 +1,5 @@
-
-
-#nave{
-	background-color: #9c9c9c;
-}
-
 #logo{
+	color: #2196f3;
 	float: left;
 	font-size: 1.7em;
 	letter-spacing: -1px;
@@ -31,7 +26,8 @@
 
 .btn-xlarge{
 	font-size: 1.7em;
-	background-color: black;
+	background-color: #2196f3;
+	border-color: #2196f3;
 }
 
 footer{
@@ -39,10 +35,6 @@ footer{
 	padding-top: 5px;
 	border-top: 1px solid #eaeaea;
 	color: #777;
-}
-
-footer a:hover{
-	color:#222;
 }
 
 footer small{
